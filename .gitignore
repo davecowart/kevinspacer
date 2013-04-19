@@ -16,3 +16,6 @@
 
 .DS_Store
 /images/generated
+
+# Ignore RubyMine files
+/.idea

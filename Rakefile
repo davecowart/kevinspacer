@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-PlaceCage::Application.load_tasks
+KevinSpacer::Application.load_tasks

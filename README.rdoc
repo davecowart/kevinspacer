@@ -1,10 +1,3 @@
-== PlaceCage
+== KevinSpacer
 
-http://www.placecage.com
-
-=== To Do
-- cache directives
-- match images based on landscape/portrait
-- gallery of source images
-- ability to pick specific images
-- FIND MORE IMAGES OF NIC CAGE
+http://www.kevinspacer.com
